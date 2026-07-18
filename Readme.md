@@ -116,7 +116,7 @@ _Dokumentasi ini dibuat secara otomatis oleh `setup_project.php` pada 2026-07-14
 Link Project :
 
 Link Git :
-
+https://github.com/aditya10125903/DataPegawai.git
 
 Link Backup :
 
